@@ -21,7 +21,7 @@ $json_data = json_encode([
 
     // Avatar URL.
     // Uncoment to replace image set in webhook
-    //"avatar_url" => "https://www.roblox.com/library/4812217090/Killer-Queen",
+    //"avatar_url" => "https://www.google.com/search?q=Killer+Queen+Head+Little+Image&client=firefox-b-d&sxsrf=ALeKk01tRwsYk-hmZ5C8X32s8b6X--DC7A:1584998947140&source=lnms&tbm=isch&sa=X&ved=2ahUKEwihudqZxbHoAhVNJBoKHYAiDrgQ_AUoAXoECAsQAw&biw=1680&bih=914#imgrc=jJ7aOY55bZi0RM&imgdii=Hl7L76QF2lqq7M",
 
     // Text-to-speech
     "tts" => false,
