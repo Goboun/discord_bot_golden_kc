@@ -1,4 +1,4 @@
-
+"""
 {
   "username": "Killer Queen",
   "avatar_url": "https://static.jojowiki.com/images/thumb/d/d7/Killer_Queen_glares.png/400px-Killer_Queen_glares.png",
@@ -47,3 +47,4 @@
     }
   ]
 }
+"""
