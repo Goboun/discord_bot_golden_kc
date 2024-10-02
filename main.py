@@ -1,3 +1,4 @@
+"""
 const express = require('express');
 const app = express();
 const port = 3000;
@@ -125,3 +126,4 @@ async function createAPIMessage(interaction, content) {
 	const apiMessage = await APIMessage.create(Bot.channels.resolve(interaction.channel_id), content).resolveData().resolveFiles();
 	return { ...apiMessage.data, files: apiMessage.files };
 };
+"""
